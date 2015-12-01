@@ -3,6 +3,7 @@ export default function () {
   if (!panel) {
     panel = document.createElement('div')
     panel.id = 'redux-debug-panel'
+    document.body.appendChild(panel)
   }
   return panel
 }
