@@ -1,5 +1,7 @@
 # Redux Devtools Script
 
+> WARN! This only works with redux-devtools@^2.1.5, later versions requires to ship with React.
+
 Using [Redux DevTools](https://github.com/gaearon/redux-devtools) without React in your App!
 
 ## Usage
