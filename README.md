@@ -14,7 +14,7 @@ Just follow [redux-devtools guide](https://github.com/gaearon/redux-devtools#ins
 <!-- your bundle -->
 <script src="/build/bundle.js"></script>
 <!-- use this to mount panel into dom tree -->
-<script src="https://npmcdn.com/redux-devtools-script"></script>
+<script src="https://unpkg.com/redux-devtools-script"></script>
 ```
 
 **Remember to expose your Redux store to `window` Object**
